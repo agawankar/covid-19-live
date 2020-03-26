@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/covid-19-live/static/css/main.faee3152.chunk.css",
+    "main.js": "/covid-19-live/static/js/main.396fad79.chunk.js",
+    "main.js.map": "/covid-19-live/static/js/main.396fad79.chunk.js.map",
+    "runtime-main.js": "/covid-19-live/static/js/runtime-main.92ab53d9.js",
+    "runtime-main.js.map": "/covid-19-live/static/js/runtime-main.92ab53d9.js.map",
+    "static/js/2.be25ba60.chunk.js": "/covid-19-live/static/js/2.be25ba60.chunk.js",
+    "static/js/2.be25ba60.chunk.js.map": "/covid-19-live/static/js/2.be25ba60.chunk.js.map",
+    "index.html": "/covid-19-live/index.html",
+    "precache-manifest.b7ed4197cc89b0b3832fe55abf504ffa.js": "/covid-19-live/precache-manifest.b7ed4197cc89b0b3832fe55abf504ffa.js",
+    "service-worker.js": "/covid-19-live/service-worker.js",
+    "static/css/main.faee3152.chunk.css.map": "/covid-19-live/static/css/main.faee3152.chunk.css.map",
+    "static/js/2.be25ba60.chunk.js.LICENSE.txt": "/covid-19-live/static/js/2.be25ba60.chunk.js.LICENSE.txt",
+    "static/media/fifa-who-step-1.png": "/covid-19-live/static/media/fifa-who-step-1.99ee8a3c.png",
+    "static/media/fifa-who-step-2.png": "/covid-19-live/static/media/fifa-who-step-2.18b83226.png",
+    "static/media/fifa-who-step-3.png": "/covid-19-live/static/media/fifa-who-step-3.c78455a9.png",
+    "static/media/fifa-who-step-4.png": "/covid-19-live/static/media/fifa-who-step-4.dea998dd.png",
+    "static/media/fifa-who-step-5.png": "/covid-19-live/static/media/fifa-who-step-5.8dd0155f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92ab53d9.js",
+    "static/js/2.be25ba60.chunk.js",
+    "static/css/main.faee3152.chunk.css",
+    "static/js/main.396fad79.chunk.js"
+  ]
+}
