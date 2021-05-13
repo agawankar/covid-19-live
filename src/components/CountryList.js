@@ -2,7 +2,6 @@ import React from 'react'
 import { LocalStorage } from '../services/LocalStorage';
 import useRetrive from '../services/useRetrive';
 import TrackCard from './TrackCard';
-import TopHeadlines from './TopHeadlines'
 import { formatDistanceToNow, format } from 'date-fns';
 
 
@@ -73,14 +72,6 @@ const CountryStats = () => {
               <span>({formatDistanceToNow(new Date(countryData?.lastUpdate))}}</span>
             </>
           )}
-        </div>
-        <hr/>
-        <div className="text-justify sx-2 sm:sx-5">
-        <h2 className="text-2xl flex-1">Today's Top Headlines - {selectedCountry.name}</h2>
-          <hr/>
-          <TopHeadlines
-            selectedCountry={selectedCountry}
-          ></TopHeadlines>
         </div>
       </div>
     )
